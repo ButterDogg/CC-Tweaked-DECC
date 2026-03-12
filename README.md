@@ -7,7 +7,7 @@ Connect your advanced computer to ONE energy pylon (this is the connection to th
 
 3. Add a monitor, 3 high 4 wide works, 6 high 8 wide works too, anything else I haven't tried/coded for.
 
-4. Get the script by running 'wget https://raw.githubusercontent.com/ButterDogg/CC-Tweaked-DECC/refs/heads/main/startup.lua'
+4. Get the script by running 'wget https://raw.githubusercontent.com/ButterDogg/CC-Tweaked-DECC/refs/heads/main/coreMonitor.lua'
 
 5. Run 'coreMonitor'.
 
